@@ -5,8 +5,8 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 # إعدادات البوت والقناة
 BOT_TOKEN = "7708899196:AAH1jQOz7UypkI6p0FWvsLQWdK7x4Rxr__E"
-CHANNEL_ID = -1002444229316  # ضع هنا معرف القناة (مع الرقم السالب للقنوات الخاصة)
-CHANNEL_LINK = "https://t.me/testmybotforb"  # ضع هنا رابط القناة
+CHANNEL_ID = -1002349706113  # ضع هنا معرف القناة (مع الرقم السالب للقنوات الخاصة)
+CHANNEL_LINK = "https://t.me/l7aj_ff_group"  # ضع هنا رابط القناة
 
 class UDPAttack:
     def __init__(self, target_ip, target_port, packet_size=1024):
