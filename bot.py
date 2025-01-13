@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # إعدادات البوت والقناة
-BOT_TOKEN = "5175709686:AAEs5-jvaCRmoEK8d0Ix8GUHj2ze3uJ0Abk"
+BOT_TOKEN = "7708899196:AAH1jQOz7UypkI6p0FWvsLQWdK7x4Rxr__E"
 CHANNEL_ID = -1002444229316  # ضع هنا معرف القناة (مع الرقم السالب للقنوات الخاصة)
 CHANNEL_LINK = "https://t.me/testmybotforb"  # ضع هنا رابط القناة
 
